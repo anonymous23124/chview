@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://xmlns.opera.com/2006/widget" network="public">
+  <widgetname>Chan view</widgetname>
+  <description>
+   	Imageboards pictures preview 
+  </description>
+  <id>
+    <host>http://2ch.ru</host>
+    <name>anonymous</name>
+    <revised>2009-03</revised>
+  </id>
+  <width>260</width>
+  <height>440</height>
+  <author>
+    <name>anonymous</name>
+    <email>anon23124@gmail.com</email>
+    <link>http://2ch.ru</link>
+  </author>
+</widget>
+

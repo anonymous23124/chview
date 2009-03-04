@@ -1,0 +1,16 @@
+
+#wrap {
+	width: 216px;
+	height: 166px;
+	background-image: url(bg.png);
+}
+
+#display {
+	position: relative;
+	top: 8px; left: 8px;
+	margin: 0;
+}
+
+#display img {
+	max-width: 200px;
+}
